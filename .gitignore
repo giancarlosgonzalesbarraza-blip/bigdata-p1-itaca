@@ -1,0 +1,5 @@
+# Datos y credenciales
+.env
+
+# Docker
+docker-volumes/
