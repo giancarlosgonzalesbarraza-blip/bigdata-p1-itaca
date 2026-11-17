@@ -1,6 +1,7 @@
 # Datos y credenciales
 .env
 data/
+Analisis_Academico/
 
 # Entorno virtual
 .venv/
