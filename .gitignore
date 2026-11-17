@@ -1,8 +1,10 @@
 # Datos y credenciales
 .env
+data/
 
-# Docker
-docker-volumes/
+# Entorno virtual
+.venv/
 
-#Data
-data
+# Archivos temporales de Python
+__pycache__/
+*.pyc
